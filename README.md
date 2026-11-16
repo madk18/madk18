@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**madk18/madk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mohamed 👋
 
-Here are some ideas to get you started:
+### Aspiring Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a web development student building my skills through hands-on projects and continuous learning.
+
+[![GitHub](https://img.shields.io/badge/GitHub-madk18-181717?style=for-the-badge&logo=github)](https://github.com/madk18)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **HTML, CSS, and JavaScript**
+- 💻 Practising by building and improving frontend projects
+- 🎯 Working towards becoming a **Frontend Developer**
+- 📚 Focused on writing cleaner code and creating responsive websites
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## 🚀 Projects
+
+Here are some of the repositories I’m using to practise and grow:
+
+- [**tijaabokale**](https://github.com/madk18/tijaabokale) — HTML and CSS portfolio practice
+- [**MohamedPortfolio**](https://github.com/madk18/MohamedPortfolio) — Personal portfolio project
+- [**tijaabo2**](https://github.com/madk18/tijaabo2) — Frontend practice project
+- [**tops**](https://github.com/madk18/tops) — Question and answer page
+
+## 📫 Find Me
+
+- GitHub: [@madk18](https://github.com/madk18)
+
+---
+
+<div align="center">
+
+*Learning step by step. Building one project at a time.* 🚀
+
+</div>
